@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CarStore.Dependency")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f60b41b58f1a37d8b41ab0826999f557f2af124")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f57dea355aa1b822000ba08cf2e51abb9ad0bd36")]
 [assembly: System.Reflection.AssemblyProductAttribute("CarStore.Dependency")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CarStore.Dependency")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
