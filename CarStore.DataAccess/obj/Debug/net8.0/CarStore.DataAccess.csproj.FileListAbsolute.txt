@@ -1,0 +1,15 @@
+D:\Temp\CarStoreApi\CarStoreApi\CarStore.DataAccess\bin\Debug\net8.0\CarStore.DataAccess.deps.json
+D:\Temp\CarStoreApi\CarStoreApi\CarStore.DataAccess\bin\Debug\net8.0\CarStore.DataAccess.dll
+D:\Temp\CarStoreApi\CarStoreApi\CarStore.DataAccess\bin\Debug\net8.0\CarStore.DataAccess.pdb
+D:\Temp\CarStoreApi\CarStoreApi\CarStore.DataAccess\obj\Debug\net8.0\CarStore.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\CarStoreApi\CarStoreApi\CarStore.DataAccess\obj\Debug\net8.0\CarStore.DataAccess.AssemblyInfoInputs.cache
+D:\Temp\CarStoreApi\CarStoreApi\CarStore.DataAccess\obj\Debug\net8.0\CarStore.DataAccess.AssemblyInfo.cs
+D:\Temp\CarStoreApi\CarStoreApi\CarStore.DataAccess\obj\Debug\net8.0\CarStore.DataAccess.csproj.CoreCompileInputs.cache
+D:\Temp\CarStoreApi\CarStoreApi\CarStore.DataAccess\obj\Debug\net8.0\CarStore.DataAccess.sourcelink.json
+D:\Temp\CarStoreApi\CarStoreApi\CarStore.DataAccess\obj\Debug\net8.0\CarStore.DataAccess.dll
+D:\Temp\CarStoreApi\CarStoreApi\CarStore.DataAccess\obj\Debug\net8.0\refint\CarStore.DataAccess.dll
+D:\Temp\CarStoreApi\CarStoreApi\CarStore.DataAccess\obj\Debug\net8.0\CarStore.DataAccess.pdb
+D:\Temp\CarStoreApi\CarStoreApi\CarStore.DataAccess\obj\Debug\net8.0\ref\CarStore.DataAccess.dll
+D:\Temp\CarStoreApi\CarStoreApi\CarStore.DataAccess\bin\Debug\net8.0\CarStore.DataAccess.runtimeconfig.json
+D:\Temp\CarStoreApi\CarStoreApi\CarStore.DataAccess\obj\Debug\net8.0\CarStore.DataAccess.csproj.AssemblyReference.cache
+D:\Temp\CarStoreApi\CarStoreApi\CarStore.DataAccess\obj\Debug\net8.0\CarStore.DataAccess.genruntimeconfig.cache
