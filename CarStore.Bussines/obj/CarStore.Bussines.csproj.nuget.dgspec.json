@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.Bussines\\CarStore.Bussines.csproj": {}
+    "D:\\Temp\\CarStoreWebAPI\\CarStore.Bussines\\CarStore.Bussines.csproj": {}
   },
   "projects": {
-    "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.Bussines\\CarStore.Bussines.csproj": {
+    "D:\\Temp\\CarStoreWebAPI\\CarStore.Bussines\\CarStore.Bussines.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.Bussines\\CarStore.Bussines.csproj",
+        "projectUniqueName": "D:\\Temp\\CarStoreWebAPI\\CarStore.Bussines\\CarStore.Bussines.csproj",
         "projectName": "CarStore.Bussines",
-        "projectPath": "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.Bussines\\CarStore.Bussines.csproj",
+        "projectPath": "D:\\Temp\\CarStoreWebAPI\\CarStore.Bussines\\CarStore.Bussines.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.Bussines\\obj\\",
+        "outputPath": "D:\\Temp\\CarStoreWebAPI\\CarStore.Bussines\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,11 +29,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.DataAccess\\CarStore.DataAccess.csproj": {
-                "projectPath": "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.DataAccess\\CarStore.DataAccess.csproj"
+              "D:\\Temp\\CarStoreWebAPI\\CarStore.DataAccess\\CarStore.DataAccess.csproj": {
+                "projectPath": "D:\\Temp\\CarStoreWebAPI\\CarStore.DataAccess\\CarStore.DataAccess.csproj"
               },
-              "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.Domain\\CarStore.Domain.csproj": {
-                "projectPath": "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.Domain\\CarStore.Domain.csproj"
+              "D:\\Temp\\CarStoreWebAPI\\CarStore.Domain\\CarStore.Domain.csproj": {
+                "projectPath": "D:\\Temp\\CarStoreWebAPI\\CarStore.Domain\\CarStore.Domain.csproj"
               }
             }
           }
@@ -82,14 +82,14 @@
         }
       }
     },
-    "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.DataAccess\\CarStore.DataAccess.csproj": {
+    "D:\\Temp\\CarStoreWebAPI\\CarStore.DataAccess\\CarStore.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.DataAccess\\CarStore.DataAccess.csproj",
+        "projectUniqueName": "D:\\Temp\\CarStoreWebAPI\\CarStore.DataAccess\\CarStore.DataAccess.csproj",
         "projectName": "CarStore.DataAccess",
-        "projectPath": "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.DataAccess\\CarStore.DataAccess.csproj",
+        "projectPath": "D:\\Temp\\CarStoreWebAPI\\CarStore.DataAccess\\CarStore.DataAccess.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.DataAccess\\obj\\",
+        "outputPath": "D:\\Temp\\CarStoreWebAPI\\CarStore.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -167,14 +167,14 @@
         }
       }
     },
-    "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.Domain\\CarStore.Domain.csproj": {
+    "D:\\Temp\\CarStoreWebAPI\\CarStore.Domain\\CarStore.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.Domain\\CarStore.Domain.csproj",
+        "projectUniqueName": "D:\\Temp\\CarStoreWebAPI\\CarStore.Domain\\CarStore.Domain.csproj",
         "projectName": "CarStore.Domain",
-        "projectPath": "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.Domain\\CarStore.Domain.csproj",
+        "projectPath": "D:\\Temp\\CarStoreWebAPI\\CarStore.Domain\\CarStore.Domain.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.Domain\\obj\\",
+        "outputPath": "D:\\Temp\\CarStoreWebAPI\\CarStore.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",

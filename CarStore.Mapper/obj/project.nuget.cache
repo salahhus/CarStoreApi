@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nFv5Y8fcg7E=",
+  "dgSpecHash": "AYOA5gXoEFk=",
   "success": true,
-  "projectFilePath": "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.Mapper\\CarStore.Mapper.csproj",
+  "projectFilePath": "D:\\Temp\\CarStoreWebAPI\\CarStore.Mapper\\CarStore.Mapper.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pc\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

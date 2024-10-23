@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CarStore.DataAccess
-build_property.ProjectDir = D:\Temp\CarStoreApi\CarStoreApi\CarStore.DataAccess\
+build_property.ProjectDir = D:\Temp\CarStoreWebAPI\CarStore.DataAccess\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

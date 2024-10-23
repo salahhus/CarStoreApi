@@ -2872,11 +2872,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.Mapper\\CarStore.Mapper.csproj",
+      "projectUniqueName": "D:\\Temp\\CarStoreWebAPI\\CarStore.Mapper\\CarStore.Mapper.csproj",
       "projectName": "CarStore.Mapper",
-      "projectPath": "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.Mapper\\CarStore.Mapper.csproj",
+      "projectPath": "D:\\Temp\\CarStoreWebAPI\\CarStore.Mapper\\CarStore.Mapper.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.Mapper\\obj\\",
+      "outputPath": "D:\\Temp\\CarStoreWebAPI\\CarStore.Mapper\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2894,11 +2894,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.DataAccess\\CarStore.DataAccess.csproj": {
-              "projectPath": "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.DataAccess\\CarStore.DataAccess.csproj"
+            "D:\\Temp\\CarStoreWebAPI\\CarStore.DataAccess\\CarStore.DataAccess.csproj": {
+              "projectPath": "D:\\Temp\\CarStoreWebAPI\\CarStore.DataAccess\\CarStore.DataAccess.csproj"
             },
-            "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.Domain\\CarStore.Domain.csproj": {
-              "projectPath": "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.Domain\\CarStore.Domain.csproj"
+            "D:\\Temp\\CarStoreWebAPI\\CarStore.Domain\\CarStore.Domain.csproj": {
+              "projectPath": "D:\\Temp\\CarStoreWebAPI\\CarStore.Domain\\CarStore.Domain.csproj"
             }
           }
         }

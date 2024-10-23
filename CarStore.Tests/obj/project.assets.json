@@ -1572,6 +1572,7 @@
           "AutoMapper": "13.0.1",
           "CarStore.Bussines": "1.0.0",
           "CarStore.Dependency": "1.0.0",
+          "CarStore.Domain": "1.0.0",
           "Microsoft.AspNetCore.OpenApi": "8.0.10",
           "Swashbuckle.AspNetCore": "6.6.2"
         },
@@ -4493,8 +4494,8 @@
     },
     "CarStore.Api/1.0.0": {
       "type": "project",
-      "path": "../CarShopApi/CarStore.Api.csproj",
-      "msbuildProject": "../CarShopApi/CarStore.Api.csproj"
+      "path": "../../CarStoreApi/CarStoreApi/CarShopApi/CarStore.Api.csproj",
+      "msbuildProject": "../../CarStoreApi/CarStoreApi/CarShopApi/CarStore.Api.csproj"
     },
     "CarStore.Bussines/1.0.0": {
       "type": "project",
@@ -4525,6 +4526,7 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "CarStore.Api >= 1.0.0",
+      "CarStore.Bussines >= 1.0.0",
       "MSTest.TestAdapter >= 3.1.1",
       "MSTest.TestFramework >= 3.1.1",
       "Microsoft.NET.Test.Sdk >= 17.8.0",
@@ -4538,11 +4540,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.Tests\\CarStore.Tests.csproj",
+      "projectUniqueName": "D:\\Temp\\CarStoreWebAPI\\CarStore.Tests\\CarStore.Tests.csproj",
       "projectName": "CarStore.Tests",
-      "projectPath": "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.Tests\\CarStore.Tests.csproj",
+      "projectPath": "D:\\Temp\\CarStoreWebAPI\\CarStore.Tests\\CarStore.Tests.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.Tests\\obj\\",
+      "outputPath": "D:\\Temp\\CarStoreWebAPI\\CarStore.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4562,6 +4564,9 @@
           "projectReferences": {
             "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarShopApi\\CarStore.Api.csproj": {
               "projectPath": "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarShopApi\\CarStore.Api.csproj"
+            },
+            "D:\\Temp\\CarStoreWebAPI\\CarStore.Bussines\\CarStore.Bussines.csproj": {
+              "projectPath": "D:\\Temp\\CarStoreWebAPI\\CarStore.Bussines\\CarStore.Bussines.csproj"
             }
           }
         }

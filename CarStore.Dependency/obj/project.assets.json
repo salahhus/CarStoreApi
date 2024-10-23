@@ -2915,11 +2915,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.Dependency\\CarStore.Dependency.csproj",
+      "projectUniqueName": "D:\\Temp\\CarStoreWebAPI\\CarStore.Dependency\\CarStore.Dependency.csproj",
       "projectName": "CarStore.Dependency",
-      "projectPath": "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.Dependency\\CarStore.Dependency.csproj",
+      "projectPath": "D:\\Temp\\CarStoreWebAPI\\CarStore.Dependency\\CarStore.Dependency.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.Dependency\\obj\\",
+      "outputPath": "D:\\Temp\\CarStoreWebAPI\\CarStore.Dependency\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2937,14 +2937,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.Bussines\\CarStore.Bussines.csproj": {
-              "projectPath": "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.Bussines\\CarStore.Bussines.csproj"
+            "D:\\Temp\\CarStoreWebAPI\\CarStore.Bussines\\CarStore.Bussines.csproj": {
+              "projectPath": "D:\\Temp\\CarStoreWebAPI\\CarStore.Bussines\\CarStore.Bussines.csproj"
             },
-            "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.DataAccess\\CarStore.DataAccess.csproj": {
-              "projectPath": "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.DataAccess\\CarStore.DataAccess.csproj"
+            "D:\\Temp\\CarStoreWebAPI\\CarStore.DataAccess\\CarStore.DataAccess.csproj": {
+              "projectPath": "D:\\Temp\\CarStoreWebAPI\\CarStore.DataAccess\\CarStore.DataAccess.csproj"
             },
-            "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.Mapper\\CarStore.Mapper.csproj": {
-              "projectPath": "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.Mapper\\CarStore.Mapper.csproj"
+            "D:\\Temp\\CarStoreWebAPI\\CarStore.Mapper\\CarStore.Mapper.csproj": {
+              "projectPath": "D:\\Temp\\CarStoreWebAPI\\CarStore.Mapper\\CarStore.Mapper.csproj"
             }
           }
         }

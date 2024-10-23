@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.Tests\\CarStore.Tests.csproj": {}
+    "D:\\Temp\\CarStoreWebAPI\\CarStore.Tests\\CarStore.Tests.csproj": {}
   },
   "projects": {
     "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarShopApi\\CarStore.Api.csproj": {
@@ -32,8 +32,14 @@
               "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.Bussines\\CarStore.Bussines.csproj": {
                 "projectPath": "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.Bussines\\CarStore.Bussines.csproj"
               },
-              "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.Dependency\\CarStore.Dependency.csproj": {
-                "projectPath": "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.Dependency\\CarStore.Dependency.csproj"
+              "D:\\Temp\\CarStoreWebAPI\\CarStore.Bussines\\CarStore.Bussines.csproj": {
+                "projectPath": "D:\\Temp\\CarStoreWebAPI\\CarStore.Bussines\\CarStore.Bussines.csproj"
+              },
+              "D:\\Temp\\CarStoreWebAPI\\CarStore.Dependency\\CarStore.Dependency.csproj": {
+                "projectPath": "D:\\Temp\\CarStoreWebAPI\\CarStore.Dependency\\CarStore.Dependency.csproj"
+              },
+              "D:\\Temp\\CarStoreWebAPI\\CarStore.Domain\\CarStore.Domain.csproj": {
+                "projectPath": "D:\\Temp\\CarStoreWebAPI\\CarStore.Domain\\CarStore.Domain.csproj"
               }
             }
           }
@@ -264,87 +270,6 @@
         }
       }
     },
-    "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.Dependency\\CarStore.Dependency.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.Dependency\\CarStore.Dependency.csproj",
-        "projectName": "CarStore.Dependency",
-        "projectPath": "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.Dependency\\CarStore.Dependency.csproj",
-        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.Dependency\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {
-              "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.Bussines\\CarStore.Bussines.csproj": {
-                "projectPath": "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.Bussines\\CarStore.Bussines.csproj"
-              },
-              "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.DataAccess\\CarStore.DataAccess.csproj": {
-                "projectPath": "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.DataAccess\\CarStore.DataAccess.csproj"
-              },
-              "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.Mapper\\CarStore.Mapper.csproj": {
-                "projectPath": "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.Mapper\\CarStore.Mapper.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        }
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.Extensions.DependencyInjection": {
-              "target": "Package",
-              "version": "[8.0.1, )"
-            },
-            "Microsoft.Extensions.DependencyModel": {
-              "target": "Package",
-              "version": "[8.0.2, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
     "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.Domain\\CarStore.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -416,14 +341,14 @@
         }
       }
     },
-    "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.Mapper\\CarStore.Mapper.csproj": {
+    "D:\\Temp\\CarStoreWebAPI\\CarStore.Bussines\\CarStore.Bussines.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.Mapper\\CarStore.Mapper.csproj",
-        "projectName": "CarStore.Mapper",
-        "projectPath": "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.Mapper\\CarStore.Mapper.csproj",
+        "projectUniqueName": "D:\\Temp\\CarStoreWebAPI\\CarStore.Bussines\\CarStore.Bussines.csproj",
+        "projectName": "CarStore.Bussines",
+        "projectPath": "D:\\Temp\\CarStoreWebAPI\\CarStore.Bussines\\CarStore.Bussines.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.Mapper\\obj\\",
+        "outputPath": "D:\\Temp\\CarStoreWebAPI\\CarStore.Bussines\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -441,11 +366,326 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.DataAccess\\CarStore.DataAccess.csproj": {
-                "projectPath": "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.DataAccess\\CarStore.DataAccess.csproj"
+              "D:\\Temp\\CarStoreWebAPI\\CarStore.DataAccess\\CarStore.DataAccess.csproj": {
+                "projectPath": "D:\\Temp\\CarStoreWebAPI\\CarStore.DataAccess\\CarStore.DataAccess.csproj"
               },
-              "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.Domain\\CarStore.Domain.csproj": {
-                "projectPath": "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.Domain\\CarStore.Domain.csproj"
+              "D:\\Temp\\CarStoreWebAPI\\CarStore.Domain\\CarStore.Domain.csproj": {
+                "projectPath": "D:\\Temp\\CarStoreWebAPI\\CarStore.Domain\\CarStore.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Temp\\CarStoreWebAPI\\CarStore.DataAccess\\CarStore.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Temp\\CarStoreWebAPI\\CarStore.DataAccess\\CarStore.DataAccess.csproj",
+        "projectName": "CarStore.DataAccess",
+        "projectPath": "D:\\Temp\\CarStoreWebAPI\\CarStore.DataAccess\\CarStore.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+        "outputPath": "D:\\Temp\\CarStoreWebAPI\\CarStore.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyModel": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Temp\\CarStoreWebAPI\\CarStore.Dependency\\CarStore.Dependency.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Temp\\CarStoreWebAPI\\CarStore.Dependency\\CarStore.Dependency.csproj",
+        "projectName": "CarStore.Dependency",
+        "projectPath": "D:\\Temp\\CarStoreWebAPI\\CarStore.Dependency\\CarStore.Dependency.csproj",
+        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+        "outputPath": "D:\\Temp\\CarStoreWebAPI\\CarStore.Dependency\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Temp\\CarStoreWebAPI\\CarStore.Bussines\\CarStore.Bussines.csproj": {
+                "projectPath": "D:\\Temp\\CarStoreWebAPI\\CarStore.Bussines\\CarStore.Bussines.csproj"
+              },
+              "D:\\Temp\\CarStoreWebAPI\\CarStore.DataAccess\\CarStore.DataAccess.csproj": {
+                "projectPath": "D:\\Temp\\CarStoreWebAPI\\CarStore.DataAccess\\CarStore.DataAccess.csproj"
+              },
+              "D:\\Temp\\CarStoreWebAPI\\CarStore.Mapper\\CarStore.Mapper.csproj": {
+                "projectPath": "D:\\Temp\\CarStoreWebAPI\\CarStore.Mapper\\CarStore.Mapper.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyModel": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Temp\\CarStoreWebAPI\\CarStore.Domain\\CarStore.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Temp\\CarStoreWebAPI\\CarStore.Domain\\CarStore.Domain.csproj",
+        "projectName": "CarStore.Domain",
+        "projectPath": "D:\\Temp\\CarStoreWebAPI\\CarStore.Domain\\CarStore.Domain.csproj",
+        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+        "outputPath": "D:\\Temp\\CarStoreWebAPI\\CarStore.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyModel": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Temp\\CarStoreWebAPI\\CarStore.Mapper\\CarStore.Mapper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Temp\\CarStoreWebAPI\\CarStore.Mapper\\CarStore.Mapper.csproj",
+        "projectName": "CarStore.Mapper",
+        "projectPath": "D:\\Temp\\CarStoreWebAPI\\CarStore.Mapper\\CarStore.Mapper.csproj",
+        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+        "outputPath": "D:\\Temp\\CarStoreWebAPI\\CarStore.Mapper\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Temp\\CarStoreWebAPI\\CarStore.DataAccess\\CarStore.DataAccess.csproj": {
+                "projectPath": "D:\\Temp\\CarStoreWebAPI\\CarStore.DataAccess\\CarStore.DataAccess.csproj"
+              },
+              "D:\\Temp\\CarStoreWebAPI\\CarStore.Domain\\CarStore.Domain.csproj": {
+                "projectPath": "D:\\Temp\\CarStoreWebAPI\\CarStore.Domain\\CarStore.Domain.csproj"
               }
             }
           }
@@ -490,14 +730,14 @@
         }
       }
     },
-    "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.Tests\\CarStore.Tests.csproj": {
+    "D:\\Temp\\CarStoreWebAPI\\CarStore.Tests\\CarStore.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.Tests\\CarStore.Tests.csproj",
+        "projectUniqueName": "D:\\Temp\\CarStoreWebAPI\\CarStore.Tests\\CarStore.Tests.csproj",
         "projectName": "CarStore.Tests",
-        "projectPath": "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.Tests\\CarStore.Tests.csproj",
+        "projectPath": "D:\\Temp\\CarStoreWebAPI\\CarStore.Tests\\CarStore.Tests.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarStore.Tests\\obj\\",
+        "outputPath": "D:\\Temp\\CarStoreWebAPI\\CarStore.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -517,6 +757,9 @@
             "projectReferences": {
               "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarShopApi\\CarStore.Api.csproj": {
                 "projectPath": "D:\\Temp\\CarStoreApi\\CarStoreApi\\CarShopApi\\CarStore.Api.csproj"
+              },
+              "D:\\Temp\\CarStoreWebAPI\\CarStore.Bussines\\CarStore.Bussines.csproj": {
+                "projectPath": "D:\\Temp\\CarStoreWebAPI\\CarStore.Bussines\\CarStore.Bussines.csproj"
               }
             }
           }
