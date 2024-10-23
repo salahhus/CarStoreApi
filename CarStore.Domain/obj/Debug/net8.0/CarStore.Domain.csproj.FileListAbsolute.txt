@@ -19,6 +19,7 @@ D:\Temp\CarStoreWebAPI\CarStore.Domain\obj\Debug\net8.0\CarStore.Domain.Generate
 D:\Temp\CarStoreWebAPI\CarStore.Domain\obj\Debug\net8.0\CarStore.Domain.AssemblyInfoInputs.cache
 D:\Temp\CarStoreWebAPI\CarStore.Domain\obj\Debug\net8.0\CarStore.Domain.AssemblyInfo.cs
 D:\Temp\CarStoreWebAPI\CarStore.Domain\obj\Debug\net8.0\CarStore.Domain.csproj.CoreCompileInputs.cache
+D:\Temp\CarStoreWebAPI\CarStore.Domain\obj\Debug\net8.0\CarStore.Domain.sourcelink.json
 D:\Temp\CarStoreWebAPI\CarStore.Domain\obj\Debug\net8.0\CarStore.Domain.dll
 D:\Temp\CarStoreWebAPI\CarStore.Domain\obj\Debug\net8.0\refint\CarStore.Domain.dll
 D:\Temp\CarStoreWebAPI\CarStore.Domain\obj\Debug\net8.0\CarStore.Domain.pdb

@@ -28,6 +28,7 @@ D:\Temp\CarStoreWebAPI\CarStore.Bussines\obj\Debug\net8.0\CarStore.Bussines.Gene
 D:\Temp\CarStoreWebAPI\CarStore.Bussines\obj\Debug\net8.0\CarStore.Bussines.AssemblyInfoInputs.cache
 D:\Temp\CarStoreWebAPI\CarStore.Bussines\obj\Debug\net8.0\CarStore.Bussines.AssemblyInfo.cs
 D:\Temp\CarStoreWebAPI\CarStore.Bussines\obj\Debug\net8.0\CarStore.Bussines.csproj.CoreCompileInputs.cache
+D:\Temp\CarStoreWebAPI\CarStore.Bussines\obj\Debug\net8.0\CarStore.Bussines.sourcelink.json
 D:\Temp\CarStoreWebAPI\CarStore.Bussines\obj\Debug\net8.0\CarStore.05745052.Up2Date
 D:\Temp\CarStoreWebAPI\CarStore.Bussines\obj\Debug\net8.0\CarStore.Bussines.dll
 D:\Temp\CarStoreWebAPI\CarStore.Bussines\obj\Debug\net8.0\refint\CarStore.Bussines.dll

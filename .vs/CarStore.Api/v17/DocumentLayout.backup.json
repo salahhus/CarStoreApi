@@ -7,10 +7,10 @@
       "RelativeMoniker": "D:0:0:{E6516C7B-D4E4-4B0C-83A3-6D38E8DF7C52}|CarStore.Tests\\CarStore.Tests.csproj|solutionrelative:carstore.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{849BADC1-2EEB-4DED-B817-21DDCEB8381D}|..\\CarStoreApi\\CarStoreApi\\CarShopApi\\CarStore.Api.csproj|d:\\temp\\carstoreapi\\carstoreapi\\carshopapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Temp\\CarStoreApi\\CarStoreApi\\CarShopApi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{849BADC1-2EEB-4DED-B817-21DDCEB8381D}|..\\CarStoreApi\\CarStoreApi\\CarShopApi\\CarStore.Api.csproj|d:\\temp\\carstoreapi\\carstoreapi\\carshopapi\\controllers\\carstorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Temp\\CarStoreApi\\CarStoreApi\\CarShopApi\\Controllers\\CarStoreController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
               "RelativeDocumentMoniker": "CarStore.Tests\\UnitTest1.cs",
               "ToolTip": "D:\\Temp\\CarStoreWebAPI\\CarStore.Tests\\UnitTest1.cs",
               "RelativeToolTip": "CarStore.Tests\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T21:29:11.582Z",
               "EditorCaption": ""
@@ -49,8 +49,7 @@
               "RelativeToolTip": "..\\CarStoreApi\\CarStoreApi\\CarShopApi\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T21:28:31.194Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T21:28:31.194Z"
             },
             {
               "$type": "Document",
@@ -62,8 +61,7 @@
               "RelativeToolTip": "..\\CarStoreApi\\CarStoreApi\\CarShopApi\\Controllers\\CarStoreController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T21:27:20.536Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T21:27:20.536Z"
             }
           ]
         }

@@ -36,6 +36,7 @@ D:\Temp\CarStoreWebAPI\CarStore.Dependency\obj\Debug\net8.0\CarStore.Dependency.
 D:\Temp\CarStoreWebAPI\CarStore.Dependency\obj\Debug\net8.0\CarStore.Dependency.AssemblyInfoInputs.cache
 D:\Temp\CarStoreWebAPI\CarStore.Dependency\obj\Debug\net8.0\CarStore.Dependency.AssemblyInfo.cs
 D:\Temp\CarStoreWebAPI\CarStore.Dependency\obj\Debug\net8.0\CarStore.Dependency.csproj.CoreCompileInputs.cache
+D:\Temp\CarStoreWebAPI\CarStore.Dependency\obj\Debug\net8.0\CarStore.Dependency.sourcelink.json
 D:\Temp\CarStoreWebAPI\CarStore.Dependency\obj\Debug\net8.0\CarStore.27B96F29.Up2Date
 D:\Temp\CarStoreWebAPI\CarStore.Dependency\obj\Debug\net8.0\CarStore.Dependency.dll
 D:\Temp\CarStoreWebAPI\CarStore.Dependency\obj\Debug\net8.0\refint\CarStore.Dependency.dll

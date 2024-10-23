@@ -22,6 +22,7 @@ D:\Temp\CarStoreWebAPI\CarStore.DataAccess\obj\Debug\net8.0\CarStore.DataAccess.
 D:\Temp\CarStoreWebAPI\CarStore.DataAccess\obj\Debug\net8.0\CarStore.DataAccess.AssemblyInfoInputs.cache
 D:\Temp\CarStoreWebAPI\CarStore.DataAccess\obj\Debug\net8.0\CarStore.DataAccess.AssemblyInfo.cs
 D:\Temp\CarStoreWebAPI\CarStore.DataAccess\obj\Debug\net8.0\CarStore.DataAccess.csproj.CoreCompileInputs.cache
+D:\Temp\CarStoreWebAPI\CarStore.DataAccess\obj\Debug\net8.0\CarStore.DataAccess.sourcelink.json
 D:\Temp\CarStoreWebAPI\CarStore.DataAccess\obj\Debug\net8.0\CarStore.DataAccess.dll
 D:\Temp\CarStoreWebAPI\CarStore.DataAccess\obj\Debug\net8.0\refint\CarStore.DataAccess.dll
 D:\Temp\CarStoreWebAPI\CarStore.DataAccess\obj\Debug\net8.0\CarStore.DataAccess.pdb

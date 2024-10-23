@@ -28,6 +28,7 @@ D:\Temp\CarStoreWebAPI\CarStore.Mapper\obj\Debug\net8.0\CarStore.Mapper.Generate
 D:\Temp\CarStoreWebAPI\CarStore.Mapper\obj\Debug\net8.0\CarStore.Mapper.AssemblyInfoInputs.cache
 D:\Temp\CarStoreWebAPI\CarStore.Mapper\obj\Debug\net8.0\CarStore.Mapper.AssemblyInfo.cs
 D:\Temp\CarStoreWebAPI\CarStore.Mapper\obj\Debug\net8.0\CarStore.Mapper.csproj.CoreCompileInputs.cache
+D:\Temp\CarStoreWebAPI\CarStore.Mapper\obj\Debug\net8.0\CarStore.Mapper.sourcelink.json
 D:\Temp\CarStoreWebAPI\CarStore.Mapper\obj\Debug\net8.0\CarStore.1BB25362.Up2Date
 D:\Temp\CarStoreWebAPI\CarStore.Mapper\obj\Debug\net8.0\CarStore.Mapper.dll
 D:\Temp\CarStoreWebAPI\CarStore.Mapper\obj\Debug\net8.0\refint\CarStore.Mapper.dll
